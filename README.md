@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked HTML error: a missing closing paragraph tag (</p>) within a div element.  The `bug.html` file contains the erroneous code. The `bugSolution.html` provides the corrected version.  This can result in inconsistencies in how the browser renders content, especially when using CSS for styling.
